@@ -63,7 +63,7 @@ public:
         return resultado;
     }
     
-    // Operaciones adicionales útiles
+    
     
     // Intersección
     TADConjunto<T> interseccion(const TADConjunto<T>& otro) const {
